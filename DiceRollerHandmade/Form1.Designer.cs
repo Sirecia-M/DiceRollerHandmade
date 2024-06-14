@@ -83,7 +83,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             Margin = new Padding(4, 3, 4, 3);
             Name = "MainForm";
-            Text = "dot";
+            Text = "Dice Roller!";
             Resize += MainForm_Resize;
             ResumeLayout(false);
             PerformLayout();
